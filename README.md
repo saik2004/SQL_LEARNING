@@ -16,4 +16,15 @@
 
 # HOW TO CREATE DATABASE AND HOW USE IT FOLLOW BELOW SQL CODE
 ![Screenshot 2025-06-25 190506](https://github.com/user-attachments/assets/fa4bcb19-cf82-44fe-ad6f-0fe8fb23d764)
+# SYNTAX FOR CREATING TABLE
+![WhatsApp Image 2025-06-25 at 19 10 11_43c7d7f8](https://github.com/user-attachments/assets/e7aa3a4d-2e53-4f28-ace2-bb73c7faf806)
+# SQL CODE FOR CREATING TABLE
+![Screenshot 2025-06-25 194731](https://github.com/user-attachments/assets/1ebecd8c-8357-40b7-8603-58fa033e0a82)
+# HOW TO INSERT VALUES TO TABLE COLOMNS 
+## SYNTAX
+```
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
+
 
