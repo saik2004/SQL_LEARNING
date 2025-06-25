@@ -28,6 +28,14 @@ VALUES (value1, value2, value3, ...);
 ```
 ## SQL CODE
 ![Screenshot 2025-06-25 200335](https://github.com/user-attachments/assets/3902ed46-127f-47d9-9962-fc5d0acab2a1)
+# HOW TO ALTER TABLE
+## SYNTAX:
+![WhatsApp Image 2025-06-25 at 20 15 10_046c73fb](https://github.com/user-attachments/assets/efb71945-443e-4eb9-b8d4-79353f1ac41d)
+## SQL CODE FOR ADD
+![Screenshot 2025-06-25 201858](https://github.com/user-attachments/assets/115a658c-c9d1-43f8-b627-8fedd77a6148)
+## SQL CODE FOR DROP(DELETE)
+![Screenshot 2025-06-25 202225](https://github.com/user-attachments/assets/38649408-3e79-4442-87c8-b2449f841db7)
+
 
 
 
