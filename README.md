@@ -14,6 +14,6 @@
 ![WhatsApp Image 2025-06-25 at 18 59 04_46148134](https://github.com/user-attachments/assets/2769c6e5-01c2-4c4e-99df-6ec73c115009)
 ![WhatsApp Image 2025-06-25 at 19 00 27_70155233](https://github.com/user-attachments/assets/82c9e3ea-7867-4ed5-b3c1-67dc07c5bb1e)
 
-##HOW TO CREATE DATABASE AND HOW USE IT FOLLOW BELOW SQL CODE
+#HOW TO CREATE DATABASE AND HOW USE IT FOLLOW BELOW SQL CODE
 ![Screenshot 2025-06-25 190506](https://github.com/user-attachments/assets/fa4bcb19-cf82-44fe-ad6f-0fe8fb23d764)
 
