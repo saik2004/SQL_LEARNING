@@ -26,5 +26,8 @@
 INSERT INTO table_name (column1, column2, column3, ...)
 VALUES (value1, value2, value3, ...);
 ```
+## SQL CODE
+![Screenshot 2025-06-25 200335](https://github.com/user-attachments/assets/3902ed46-127f-47d9-9962-fc5d0acab2a1)
+
 
 
