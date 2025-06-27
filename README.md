@@ -35,6 +35,20 @@ VALUES (value1, value2, value3, ...);
 ![Screenshot 2025-06-25 201858](https://github.com/user-attachments/assets/115a658c-c9d1-43f8-b627-8fedd77a6148)
 ## SQL CODE FOR DROP(DELETE)
 ![Screenshot 2025-06-25 202225](https://github.com/user-attachments/assets/38649408-3e79-4442-87c8-b2449f841db7)
+# HOW TO DELETE QUERY 
+## SYNTAX
+![WhatsApp Image 2025-06-27 at 11 28 25_2c2c83fc](https://github.com/user-attachments/assets/93484bd8-a86e-420d-8f29-2c8dadc9d022)
+## TABLE BEFORE DELETE
+![Screenshot 2025-06-27 112945](https://github.com/user-attachments/assets/fad61bb6-e2b2-444c-8fd7-e625f0587a35)
+## SQL CODE TO DELETE QUERY
+![Screenshot 2025-06-27 113209](https://github.com/user-attachments/assets/5bb355da-b91d-4a15-99f3-61fcc124045a)
+# HOW TO UPDATE QUERY
+## SYNTAX
+![WhatsApp Image 2025-06-27 at 11 38 09_5b49afdd](https://github.com/user-attachments/assets/47c78b70-43d1-46cc-bf3d-965b7e1ceba2)
+
+
+
+
 
 
 
