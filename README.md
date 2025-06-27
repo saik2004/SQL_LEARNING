@@ -45,6 +45,12 @@ VALUES (value1, value2, value3, ...);
 # HOW TO UPDATE QUERY
 ## SYNTAX
 ![WhatsApp Image 2025-06-27 at 11 38 09_5b49afdd](https://github.com/user-attachments/assets/47c78b70-43d1-46cc-bf3d-965b7e1ceba2)
+## TABLE BEFORE UPDATING
+![Screenshot 2025-06-27 115426](https://github.com/user-attachments/assets/3094fa58-5763-4199-8e0a-db69f11a50ad)
+## TABLE AFTER UPDATING WITH SQL CODE
+![Screenshot 2025-06-27 115535](https://github.com/user-attachments/assets/61ecebb8-794e-4689-b98b-f480ea03f646)
+
+
 
 
 
