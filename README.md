@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-06-25 at 18 59 04_de90494f](https://github.com/user-attachments/assets/5660817d-cfb8-4785-958d-d3e27590cb51)# SQL_LEARNING
+# SQL_LEARNING
 ![WhatsApp Image 2025-06-25 at 17 29 33_2f916ca9](https://github.com/user-attachments/assets/cd0e2933-11de-452e-b7e6-430cf5f686e5)
 ![WhatsApp Image 2025-06-25 at 17 29 34_730448ef](https://github.com/user-attachments/assets/e64b7ca3-962a-4996-96aa-ee7e4c0778d0)
 ![WhatsApp Image 2025-06-25 at 17 29 34_59bfe535](https://github.com/user-attachments/assets/898bfdeb-4968-4da7-89f0-4f17d453e8a8)
@@ -49,6 +49,22 @@ VALUES (value1, value2, value3, ...);
 ![Screenshot 2025-06-27 115426](https://github.com/user-attachments/assets/3094fa58-5763-4199-8e0a-db69f11a50ad)
 ## TABLE AFTER UPDATING WITH SQL CODE
 ![Screenshot 2025-06-27 115535](https://github.com/user-attachments/assets/61ecebb8-794e-4689-b98b-f480ea03f646)
+# TRUNCATE VS DELETE
+```
+When to Use
+Use DELETE when you want fine control (e.g., delete only some rows or trigger logic).
+
+Use TRUNCATE when you want a fast, full cleanup of a table and don’t need triggers or WHERE clause.
+
+DELETE does not reset the identity value; the next insert continues from the last number.
+
+TRUNCATE resets the identity value to the seed, starting fresh from the beginning.
+```
+## USING DELETE CHANGE IN IDENITY
+![Screenshot 2025-06-27 121428](https://github.com/user-attachments/assets/1d398693-61f3-418a-9b85-ab9512451e57)
+
+## USING TRUNCATE AND INSERTNG QUERY
+![Screenshot 2025-06-27 121727](https://github.com/user-attachments/assets/176668d3-7105-48b2-864f-f991b47cc4a3)
 
 
 
